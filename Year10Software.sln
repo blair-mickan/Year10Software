@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumber", "GuessMyNumber\GuessMyNumber.csproj", "{FA4CC38B-66B3-4C5F-BDE7-81ADDF9A9A91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{243CFD38-5EFA-4563-ADFD-69EF61B585CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FA4CC38B-66B3-4C5F-BDE7-81ADDF9A9A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA4CC38B-66B3-4C5F-BDE7-81ADDF9A9A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA4CC38B-66B3-4C5F-BDE7-81ADDF9A9A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243CFD38-5EFA-4563-ADFD-69EF61B585CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243CFD38-5EFA-4563-ADFD-69EF61B585CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243CFD38-5EFA-4563-ADFD-69EF61B585CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243CFD38-5EFA-4563-ADFD-69EF61B585CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
