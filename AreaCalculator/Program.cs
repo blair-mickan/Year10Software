@@ -30,7 +30,7 @@ namespace AreaCalculator
                     float width = float.Parse(Console.ReadLine());
                     Console.Write("length: ");
                     float length = float.Parse(Console.ReadLine());
-                    Console.WriteLine("area: " + (width * length());
+                    Console.WriteLine("area: " + (width * length));
 
                 }
                 else if (Choice == "2")
