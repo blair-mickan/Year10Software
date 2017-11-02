@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{2939B217-49CD-492E-9488-45631493F603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{C926CC8F-38A2-491A-A4BA-B7E3EEE33446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2939B217-49CD-492E-9488-45631493F603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2939B217-49CD-492E-9488-45631493F603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2939B217-49CD-492E-9488-45631493F603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C926CC8F-38A2-491A-A4BA-B7E3EEE33446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C926CC8F-38A2-491A-A4BA-B7E3EEE33446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C926CC8F-38A2-491A-A4BA-B7E3EEE33446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C926CC8F-38A2-491A-A4BA-B7E3EEE33446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
