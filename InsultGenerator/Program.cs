@@ -24,13 +24,13 @@ namespace InsultGenerator
         }
         private static void GenerateInsult(string name, Random rnd)
         {
-            Console.WriteLine(name + ", you are " + GetAdjective() + GetCompundAdjective() + GetObject());
+            Console.WriteLine(name + ", you are " + GetAdjective(rnd) + " " + GetCompundAdjective(rnd) + " " + GetObject(rnd));
             Menu(name, rnd);
         }
-        private static void menu(string name, Random rnd)
+        private static void Menu(string name, Random rnd)
         {
             Console.Write("Would you like another insult? Y/N ");
-            if Console.ReadLine() == "y")
+            if (Console.ReadLine() == "y")
 
                 GenerateInsult(name, rnd);
         }
